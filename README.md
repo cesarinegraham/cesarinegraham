@@ -1,6 +1,6 @@
 <h3 align="center">Astrophysicist and Mathematician</h3>
 
-🔭 I’m currently working on: 
+<h3 align="left">🔭 I’m currently working on: :</h3>
 
  - **Rendering a Multi-Dimensional View of Habitability in Extreme Environments with Desulfovibrio Microbes**
  - [Exotic Manifolds and their Connection to Superstring Theory](https://github.com/cesarinegraham/Topology-Research-Results/)

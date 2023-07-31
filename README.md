@@ -11,4 +11,6 @@
  - [Exotic Manifolds and their Connection to Superstring Theory](https://github.com/cesarinegraham/Topology-Research-Results/)
  - **Kirby Calculus and Knot Theory and their Connections to Concepts in General Relativity and Cosmology**
 
+</br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarinegraham&show_icons=true&locale=en" alt="cesarinegraham" /></p>

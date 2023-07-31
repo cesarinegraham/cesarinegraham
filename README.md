@@ -1,4 +1,4 @@
-<h3 align="center">Astrophysics and Mathematician</h3>
+<h3 align="center">Astrophysicist and Mathematician</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>

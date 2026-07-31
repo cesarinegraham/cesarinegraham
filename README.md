@@ -12,5 +12,3 @@
  - **Rendering a multi-dimensional view of habitability in extreme environments with extremophile microbes**
 
 </br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarinegraham&show_icons=true&locale=en" alt="cesarinegraham" /></p>

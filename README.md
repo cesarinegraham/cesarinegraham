@@ -1,4 +1,6 @@
-<h3 align="center">Physicist and Planetary Scientist</h3>
+<h3 align="center">Graduate Student</h3>
+<h3 align="center">Physics and Planetary Science</h3>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
